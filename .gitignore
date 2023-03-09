@@ -2,3 +2,4 @@ lightning_logs*
 WordNet18RR*
 tb_logs*
 *.pt
+checkpoints*
