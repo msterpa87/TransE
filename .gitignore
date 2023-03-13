@@ -3,3 +3,4 @@ WordNet18RR*
 tb_logs*
 *.pt
 checkpoints*
+backup_*
