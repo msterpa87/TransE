@@ -1,6 +1,7 @@
 lightning_logs*
-WordNet18RR*
+WordNet18*
 tb_logs*
 *.pt
 checkpoints*
 backup_*
+ckpt*
