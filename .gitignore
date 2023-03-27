@@ -1,5 +1,4 @@
 lightning_logs*
-WordNet18
 tb_logs*
 *.pt
 checkpoints*
