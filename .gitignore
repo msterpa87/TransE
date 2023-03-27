@@ -4,4 +4,4 @@ tb_logs*
 *.pt
 checkpoints*
 backup_*
-ckpt
+all_ckpt*
